@@ -12,7 +12,7 @@ def add(num1, num2):
     :param a: The first number.
     :param b: The second number.
     :return: The sum of `a` and `b`."""
-    return num1+ num2
+    return num1 + num2
 
 
 print(add(1, 1))
